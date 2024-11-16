@@ -1,4 +1,5 @@
 #!/bin/bash
+apt update -y
 apt install default-jdk -y
 apt install unzip -y
 apt install maven -y
